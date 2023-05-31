@@ -15,8 +15,8 @@ nav:
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/images/wolf.png
-  logo: assets/wolf.png
+  favicon: assets/images/muscle.gif
+  logo: assets/muscle.gif
   font:
     text: Source Sans Pro
     code: Source Code Pro
