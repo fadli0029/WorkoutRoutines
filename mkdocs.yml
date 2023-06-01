@@ -57,6 +57,7 @@ theme:
         #name: Switch to light mode
 
 markdown_extensions:
+  - footnotes
   - meta
   - md_in_html
   - def_list
