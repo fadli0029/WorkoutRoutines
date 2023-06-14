@@ -1,8 +1,6 @@
-<!--add admonition describing pre-workout stretch/exercise for chest-->
-
 !!! warning "Some reminders/warnings"
 
-    - Progression is important for muscle growth. If overtime the current setup is too easy (i.e: you can do up to 20 reps or it takes 20 reps to reach the *until-failure* bar), apply progressions (ex: add resistance bands for push-ups or put on a weighted backpack. For Dumbbell press, just increase the weights) [^4]
+    - Progression is important for muscle growth. If overtime the current setup is too easy (i.e: you can do up to 20 reps or it takes 20 reps to reach the *until-failure* bar), apply progressions (ex: add resistance bands for push-ups or put on a weighted backpack. For weights exercises, just increase the weights) [^4]
     - Do not speed up your push-ups, slow down. If it's too easy, slow it down to 2 or 2.5 seconds per push up [^1]$^,$ [^2]
     - When doing push-ups, do not shrug your elbow and do not flare your elbow [^2]
 
@@ -36,8 +34,8 @@
     <td> <img src="../../../images/dumbbell_press_form.png" style="width:200px;height:125px;"> 
     </td>
   </tr> 
-</center>
 </table>
+</center>
 
 <center>
 <table>
@@ -49,8 +47,8 @@
     <td> <img src="https://s12.gifyu.com/images/SQzMs.gif" style="width:200px;height:125px;"> 
     </td>
   </tr> 
-</center>
 </table>
+</center>
 
 <center>
 <table>
@@ -86,21 +84,17 @@
 </table>
 </center>
 
-## Decline Narrow Push-ups
+## Decline Narrow (diamond) Push-ups
 
 !!! info
 
-    This exercise gives more emphasis on the upper chest [^8]
+    This exercise gives more emphasis on the upper chest [^8]. Perform this variation in the same form as in *Narrow (diamond) Push-ups* above, but apply a declination (rest your feet on a bench/chair/couch).
 
-## Inner Chest Push-ups
+## Incline Narrow (diamond) Push-ups
 
 !!! info
 
-    This exercise targets the inner chest [^8]
-
-## Hand Release Push-ups
-## Push-ups Negatives
-## One-sided Push-ups
+    This exercise gives more emphasis on the lower chest [^8]. Perform this variation in the same form as in *Narrow (diamond) Push-ups* above, but apply an inclination (rest your palms on a bench/chair/couch).
 
 <!--Citations-->
 [^1]: [Effect of Push-up Speed on Elbow Joint Loading, Paul Pei-Hsi Chou Et al.](http://ir.lib.kmu.edu.tw/retrieve/7371/780208-5.pdf)
