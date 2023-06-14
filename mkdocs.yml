@@ -5,10 +5,10 @@ nav:
   - About: 'index.md'
   - Wrists and Knees: 'contents/wk/index.md'
   - Pre-Workout Stretch: 'contents/pws/index.md'
-  - Home Workout:
-    - 'Chest': 'contents/hw/chest/index.md'
-    - 'Arm': 'contents/hw/arm/index.md'
-    - 'Back & Shoulder': 'contents/hw/back_shoulder/index.md'
+  - Free Weights Workout:
+    - 'Chest': 'contents/fww/chest/index.md'
+    - 'Arm': 'contents/fww/arm/index.md'
+    - 'Back & Shoulder': 'contents/fww/back_shoulder/index.md'
   - Resources: 'contents/resources/index.md'
   #- Gym Workout: TODO
 
